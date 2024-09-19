@@ -14,7 +14,7 @@ The Weather Web App is a responsive application that provides users with current
 
 #### Detailed Weather Information: Displays temperature, weather description, humidity, wind speed, sunrise, and sunset times.
 
-#### Modern UI: Clean and professional interface with intuitive navigation.
+#### Modern UI: Clean and professional interface with intuitive and easy navigation.
 
 ## Technologies Used
 
